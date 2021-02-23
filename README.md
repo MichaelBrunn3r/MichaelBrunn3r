@@ -2,6 +2,8 @@
 
 I love exploring all kinds of problems, hobbies and skills. Be it Computer Architecture, Electronic Design, Math, Languages, Photographie, Art, etc., I try to understand them even better by writing software about them.
 
+- 🔭 I’m currently working on [cdpy](https://github.com/MichaelBrunn3r/cdpy), an automation tool for Chrome
+
 ### Languages and Tools:
 <img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
