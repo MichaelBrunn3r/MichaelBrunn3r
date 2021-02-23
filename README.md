@@ -25,4 +25,4 @@ I love exploring all kinds of problems, hobbies and skills. Be it Computer Archi
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbrunn3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbrunn3r&layout=compact)
