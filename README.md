@@ -2,7 +2,10 @@
 
 I love exploring all kinds of problems, hobbies and skills. Be it Computer Architecture, Electronic Design, Math, Languages, Photographie, Art, etc., I try to understand them even better by writing software about them.
 
-- 🥅 2020 Goals: Write a small interactive and educational website, e.g. about algorithms
+- 🥅 2021 Goals:
+  - Write a small interactive and educational website, e.g. about algorithms
+  - Learn about Wavelet Transform
+  - Learn about ML
 
 ### Currently working on
 [![cdpy](https://github-readme-stats.vercel.app/api/pin/?username=michaelbrunn3r&repo=cdpy)](https://github.com/MichaelBrunn3r/cdpy)
