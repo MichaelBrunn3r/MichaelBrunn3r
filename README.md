@@ -1,11 +1,11 @@
 ### Hi 👋, I'm Michael
 
-I love exploring all kinds of problems, hobbies and skills. Be it Computer Architecture, Electronic Design, Math, Languages, Photographie, Art, etc., I try to understand them even better by writing software about them.
+CS Student exploring computer architecture, electronic design, math, languages, photographie, etc.
 
 - 🥅 2021 Goals:
-  - Write a small interactive and educational website, e.g. about algorithms
-  - Learn about Wavelet Transform
-  - Learn about ML
+  - ML
+  - Wavelet Transform
+  - Interactive math playground
 
 ### Currently working on
 [![cdpy](https://github-readme-stats.vercel.app/api/pin/?username=michaelbrunn3r&repo=cdpy)](https://github.com/MichaelBrunn3r/cdpy)
