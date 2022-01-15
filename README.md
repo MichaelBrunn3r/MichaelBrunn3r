@@ -2,8 +2,8 @@
 
 CS Student exploring computer architecture, electronic design, math, languages, photographie, etc.
 
-- 🥅 2021 Goals:
-  - ML
+- 🥅 2022 Goals:
+  - Intro to Machine Learning
   - Wavelet Transform
   - Interactive math playground
 
