@@ -2,15 +2,11 @@
 
 CS Student exploring computer architecture, electronic design, math, languages, photographie, etc.
 
-- 🥅 2022 Goals:
-  - Intro to Machine Learning
-  - Wavelet Transform
-  - Interactive math playground
-
 ### Currently working on
-[![cdpy](https://github-readme-stats.vercel.app/api/pin/?username=michaelbrunn3r&repo=cdpy)](https://github.com/MichaelBrunn3r/cdpy)
+[![advent-of-code](https://github-readme-stats.vercel.app/api/pin/?username=michaelbrunn3r&repo=advent-of-code)](https://github.com/MichaelBrunn3r/advent-of-code)
 
 ### Languages and Tools:
+<img align="left" alt="Rust" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <!-- Java -->
